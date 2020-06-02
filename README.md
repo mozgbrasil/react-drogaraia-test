@@ -18,4 +18,8 @@ Teste compilado
 
 [http://mozg.com.br/react-drogaraia-test/](http://mozg.com.br/react-drogaraia-test/)
 
+## Demonstração
+
+[checkmark]: https://raw.githubusercontent.com/mozgbrasil/react-drogaraia-test/master/horizontally.png "MOZG"
+
 :cat2:
