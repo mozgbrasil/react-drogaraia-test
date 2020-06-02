@@ -5,9 +5,9 @@
   "keywords": [
     "http://localhost:3000/",
     "production",
-    "https://mozg.com.br/react-drogaraia/"
+    "http://mozg.com.br/react-drogaraia-test/"
   ],
-  "homepage": "",
+  "homepage": "http://mozg.com.br/react-drogaraia-test/",
   "private": true,
   "main": "src/index.js",
   "dependencies": {
@@ -57,7 +57,11 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [">0.2%", "not dead", "not op_mini all"],
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",

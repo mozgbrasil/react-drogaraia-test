@@ -1,15 +1,21 @@
 [checkmark]: https://raw.githubusercontent.com/mozgbrasil/mozgbrasil.github.io/master/assets/images/logos/logo_32_32.png "MOZG"
-![valid XHTML][checkmark]
 
+![valid XHTML][checkmark]
 
 # Mozg/React-Drogaraia
 
 ## Sinopse
 
-Teste usando [React](https://react.org/) rodando na [Heroku](https://www.heroku.com/)
+Teste usando [React](https://react.org/) rodando no [GithubPages](https://pages.github.com/ "GithubPages")
 
 ## Descrição
 
-Um aplicativo [React](https://react.org/) usando [Express 4](http://expressjs.com/).
+Descrição do teste
+
+[(http://mozg.com.br/react-drogaraia-test/prova/exemplo.html](http://mozg.com.br/react-drogaraia-test/prova/exemplo.html)
+
+Teste compilado
+
+[http://mozg.com.br/react-drogaraia-test/](http://mozg.com.br/react-drogaraia-test/)
 
 :cat2:
