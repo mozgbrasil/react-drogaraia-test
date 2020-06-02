@@ -20,6 +20,6 @@ Teste compilado
 
 ## Demonstração
 
-[demo]: https://raw.githubusercontent.com/mozgbrasil/react-drogaraia-test/master/horizontally.png "MOZG"
+![Demo](https://raw.githubusercontent.com/mozgbrasil/react-drogaraia-test/master/horizontally.png)
 
 :cat2:
