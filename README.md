@@ -12,7 +12,7 @@ Teste usando [React](https://react.org/) rodando no [GithubPages](https://pages.
 
 Descrição do teste
 
-[(http://mozg.com.br/react-drogaraia-test/prova/exemplo.html](http://mozg.com.br/react-drogaraia-test/prova/exemplo.html)
+[http://mozg.com.br/react-drogaraia-test/prova/exemplo.html](http://mozg.com.br/react-drogaraia-test/prova/exemplo.html)
 
 Teste compilado
 
